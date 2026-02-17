@@ -15,6 +15,8 @@ import com.sdsmdg.harjot.vectormaster.models.PathModel;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import ccom.sdsmdg.harjot.vectormasterdemo.R;
+
 public class MainActivity extends AppCompatActivity {
 
     Typeface typeface;
